@@ -1,6 +1,8 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from scipy.stats import spearmanr
+from scipy.stats import kendalltau
 
 def create_dict():
     dict_1 = dict()
@@ -10,7 +12,7 @@ def create_dict():
             dict_1["On a scale of 1-10 how acoustic is the song? (10 corresponds to very acoustic)."+str(i)] = "q"+str(i)+"_acoustic"
             dict_1["On a scale of 1-10 how colourful is the song? (10 corresponds to very colourful)."+str(i)] = "q"+str(i)+"_coloutful"
             dict_1["On a scale of 1-10 how full is the song? (10 corresponds to very full)."+str(i)] = "q"+str(i)+"_full"
-            dict_1["On a scale of 1-10 how Energetic is the song? (10 corresponds to very Energetic)."+str(i)] = "q"+str(i)+"_full"
+            dict_1["On a scale of 1-10 how Energetic is the song? (10 corresponds to very Energetic)."+str(i)] = "q"+str(i)+"_energy"
         else:
             dict_1["On a scale of 1-10 how warm is the song? (10 corresponds to very warm)"] = "q"+str(i)+"_warm"
             dict_1["On a scale of 1-10 how acoustic is the song? (10 corresponds to very acoustic)"] = "q"+str(i)+"_acoustic"
@@ -52,3 +54,27 @@ def convert_bool(mean_array):
                 mean_array[i][j] = 0
     return mean_array
 
+
+def correlation(a, b):
+    """
+    Returns the correlation between two arrays
+    """
+    a = a - np.mean(a)
+    b = b - np.mean(b)
+    return np.sum(a*b) /( np.sqrt(np.sum(a*a) * np.sum(b*b)))
+
+
+
+def spearman_corr(x, y):
+    # Use scipy's spearmanr function to calculate Spearman's rho
+    rho, _ = spearmanr(x, y)
+    
+    return rho
+
+
+
+def kendall_corr(x, y):
+    # Use scipy's kendalltau function to calculate Kendall's tau
+    tau, _ = kendalltau(x, y)
+    
+    return tau
