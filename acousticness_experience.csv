@@ -1,0 +1,35 @@
+,0
+Sub-Band-Flux1_Acousticness,-0.011536631393196047
+MFCC6_Acousticness,0.01342332124752128
+MFCC4_Acousticness,0.017969948054607422
+Sub-Band-Flux2_Acousticness,0.018927289460177292
+Mean Spectral Roughness_Acousticness,-0.019190282170371508
+MFCC7_Acousticness,0.03515915167522783
+bpm_Acousticness,0.03988990938982508
+Spectral Centroid_Acousticness,-0.05441369838817015
+MFCC12_Acousticness,-0.06136515910517012
+Sub-Band-Flux3_Acousticness,-0.07794807600158486
+Sub-Band-Flux4_Acousticness,-0.10576372380788628
+Spectral Flatness_Acousticness,-0.11208276943883662
+MFCC3_Acousticness,0.1362035396356146
+Sub-Band-Flux10_Acousticness,-0.14989550095509963
+MFCC13_Acousticness,-0.15363945567943188
+MFCC9_Acousticness,0.16628736576861333
+MFCC10_Acousticness,-0.16996399143499202
+Sub-Band-Flux5_Acousticness,-0.20816890237594465
+Sub-Band-Flux6_Acousticness,-0.21864930138866512
+Sub-Band-Flux8_Acousticness,-0.22524398122184774
+Spectral Flux_Acousticness,0.23854851717208186
+Sub-Band-Flux7_Acousticness,-0.25252139120041034
+MFCC11_Acousticness,-0.27906013305658345
+ZCR_Acousticness,0.29820034748381175
+Mean Spectral Brightness_Acousticness,0.31440910955906026
+Mean Spectral Entropy_Acousticness,0.3206940172832392
+MFCC1_Acousticness,-0.32373561508906024
+MFCC2_Acousticness,0.33004945799232827
+MFCC5_Acousticness,-0.37660736057821814
+MFCC8_Acousticness,0.37858663128987585
+Sub-Band-Flux9_Acousticness,-0.3914137500326697
+Rolloff_Acousticness,0.4070255879155478
+Spectral Skewness_Acousticness,-0.49124579342761876
+RMS Energy_Acousticness,0.4977664520338297

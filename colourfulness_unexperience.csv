@@ -1,0 +1,35 @@
+,0
+Sub-Band-Flux3_Colourfulness,-0.002747055614702243
+Sub-Band-Flux2_Colourfulness,0.01463738090125781
+MFCC7_Colourfulness,-0.0301057600350062
+MFCC11_Colourfulness,0.043432684197379154
+Sub-Band-Flux8_Colourfulness,0.04559145255993888
+MFCC3_Colourfulness,0.04679697587703905
+Spectral Skewness_Colourfulness,-0.05293937917130341
+MFCC13_Colourfulness,0.06369314748366688
+MFCC10_Colourfulness,0.0663243112135037
+MFCC12_Colourfulness,0.07311185110889665
+Sub-Band-Flux1_Colourfulness,-0.07614184459306379
+Sub-Band-Flux4_Colourfulness,-0.07780040471685616
+Sub-Band-Flux9_Colourfulness,-0.0999431627640224
+MFCC5_Colourfulness,-0.10052090169378272
+RMS Energy_Colourfulness,0.11628167785482842
+Mean Spectral Roughness_Colourfulness,-0.13422793543102593
+MFCC9_Colourfulness,0.1615398951010541
+MFCC4_Colourfulness,0.16369499356459719
+bpm_Colourfulness,-0.16970216066819593
+Sub-Band-Flux7_Colourfulness,-0.17935073497075432
+Spectral Centroid_Colourfulness,0.18420382926811538
+MFCC6_Colourfulness,0.19794798442552042
+MFCC8_Colourfulness,0.21821807947502855
+Spectral Flatness_Colourfulness,0.2564632884046945
+Sub-Band-Flux10_Colourfulness,-0.26581930193324005
+Sub-Band-Flux6_Colourfulness,-0.28059169816684776
+MFCC1_Colourfulness,-0.2898070723628599
+Sub-Band-Flux5_Colourfulness,-0.30277367677551265
+MFCC2_Colourfulness,0.3296386008137843
+ZCR_Colourfulness,0.40176881338957415
+Mean Spectral Brightness_Colourfulness,0.4062832112178781
+Spectral Flux_Colourfulness,0.46857735976020154
+Mean Spectral Entropy_Colourfulness,0.4895783074401572
+Rolloff_Colourfulness,0.573221335556075
