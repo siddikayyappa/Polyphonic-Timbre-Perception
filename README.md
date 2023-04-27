@@ -1,12 +1,6 @@
 # Polyphonic Timbre
-
-Team Idiosigncracies:
-1. Siddik Ayyappa
-2. Shri Vidhathri
-3. Vivek Mathur M
-
-
 Individual Contributions:
+
 1. Problem statement selection done together in brainstorming session by all the teammates
 2. Literature review done by Shri Vidhatri - synopsys of the primary paper and selection of the perceptual descriptors
 3. Literature review done by Siddik Ayyappa - planning the methodology of data processing, feature extraction and acoustic correlation
@@ -17,6 +11,11 @@ Individual Contributions:
 8. Correlations and statistics values extracted by Siddik Ayyappa
 9. Statistical analysis and Inferences between musicians and non-musicians & Writing of the paper by Shri Vidhatri
 10. Acoustic correlates of perceptual descriptors done by all teammates toegether
+
+Team Idiosigncracies:
+1. Siddik Ayyappa
+2. Shri Vidhathri
+3. Vivek Mathur M
 
 
 
