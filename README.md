@@ -15,7 +15,7 @@ Individual Contributions:
 6. Collection of data from participants individually was done equally by all the teammates
 7. Feature extraction done by Vivek Mathur
 8. Correlations and statistics values extracted by Siddik Ayyappa
-9. Statistical analysis and Inferences between musicians and non-musicians done by Shri Vidhatri
+9. Statistical analysis and Inferences between musicians and non-musicians & Writing of the paper by Shri Vidhatri
 10. Acoustic correlates of perceptual descriptors done by all teammates toegether
 
 
